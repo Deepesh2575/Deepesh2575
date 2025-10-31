@@ -18,7 +18,6 @@ I'm passionate about building intelligent systems, full-stack web applications, 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Deepesh2575&theme=tokyonight&no-frame=false&no-bg=true&margin-w=15" />
 </p>
-
 ---
 ![Header](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepesh2575&theme=tokyonight)
 
