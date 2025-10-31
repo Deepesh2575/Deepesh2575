@@ -12,6 +12,9 @@ I'm passionate about building intelligent systems, full-stack web applications, 
 - ⚡ Fun fact: I love designing logos and creative digital art!
 
 ---
+![Visitor Count](https://komarev.com/ghpvc/?username=Deepesh2575&color=blue)
+---
+![Header](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepesh2575&theme=tokyonight)
 
 
 
