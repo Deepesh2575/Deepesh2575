@@ -27,8 +27,10 @@ I build intelligent systems, full-stack web apps, and explore AI/ML, Cloud, and 
 ---
 
 ## 📊 GitHub Stats
-![Deepesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deepesh2575&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepesh2575&layout=compact&theme=tokyonight)
+![Deepesh's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deepesh2575&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Deepesh2575&layout=compact&theme=tokyonight)
+
 
 ---
 
