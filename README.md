@@ -17,7 +17,7 @@ I build intelligent systems, full-stack web apps, and explore AI/ML, Cloud, and 
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Deepesh2575)](https://github.com/Deepesh2575/github-profile-trophy&theme=tokyonight)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Deepesh2575)](https://github.com/Deepesh2575/github-profile-trophy&show_icon=true&theme=tokyonight)
 ---
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepesh2575&theme=tokyonight)
