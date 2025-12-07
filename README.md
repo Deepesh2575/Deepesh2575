@@ -16,9 +16,6 @@ I build intelligent systems, full-stack web apps, and explore AI/ML, Cloud, and 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Deepesh2575&color=blue)
 
 ## 🏆 GitHub Trophies
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Deepesh2575&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Deepesh2575&theme=matrix" alt="Trophies" />
