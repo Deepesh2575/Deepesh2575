@@ -10,20 +10,7 @@ I build intelligent systems, full-stack web apps, and explore AI/ML, Cloud, and 
 - 💻 Currently learning: **C, C++, Python, Web Development, AI/ML, Cloud Computing, Blockchain**  
 - 💡 Interests: Data Science, Full-Stack Development, Entrepreneurship  
 - 🎨 Fun fact: I enjoy designing **logos & digital artwork**
-
----
-## 👤 Character Details
-
-| Field           | Details                           |                                             | Stat              | Value       | Progress          |       
-|-----------------|-----------------------------------| --------------------------------------------|-------------------|-------------|-------------------|       
-| **Real Name**   | Aman Sonwani                     |                                              | **Code Hit Points** | 40/100    | ███████████░░░░░░░░░░░░░░ |       
-| **Location**    | India                            |                                              | **Debug Mana**    | 50/100      | █████████████░░░░░░░░░░░░ |      
-| **Joined**      | December 28, 2021                |                                              | **Commits**       | 70          | ![Commits](https://img.shields.io/badge/Commits-70-brightgreen) |                                                       
-| **Level**       | 18                               |                                              | **Pull Requests** | 45          | ![PR`s](https://img.shields.io/badge/PRs-45-blue) |      
-| **Class**       | Chaos Architect                  |                                              | **Bugs Fixed**    | 20          | ![Bug Fix](https://img.shields.io/badge/Bugs_Fixed-20-red) |      
-| **GitHub**      | [DEEPESH](https://github.com/Deepesh2575) |                                    | **Lines of Code** | 22,450      | ![LOC](https://img.shields.io/badge/LOC-22450-orange) |
-| **Email**       | deepeshbatra589@gmail.com         |                                              | **Experience**    | 30,000 XP   | █████████░░░░░░░░░░░░░░░░ |      
-                                                     
+                                          
 ---
 
 
